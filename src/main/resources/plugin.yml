@@ -1,0 +1,4 @@
+name: DarksRarerOres
+version: '${project.version}'
+main: me.darksoul.darksrarerores.DarksRarerOres
+api-version: 1.19
